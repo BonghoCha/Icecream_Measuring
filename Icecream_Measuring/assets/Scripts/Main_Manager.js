@@ -143,6 +143,32 @@ cc.Class({
 
         var reset = cc.find("Canvas/play/" + this.m_main_keyword);
         for (var i = 0; i < reset.children.length-1; i++){
+            if (reset.name == "puppy"){
+                if (reset.children[i].name == "ear_1" || reset.children[i].name == "ear_2") continue;
+            }
+            else if (reset.name == "dinosaur"){
+                if (reset.children[i].name == "leg_1" || reset.children[i].name == "leg_2") continue;
+            }
+            else if (reset.name == "train"){
+                if (reset.children[i].name == "pillar") continue;
+            }
+            else if (reset.name == "robot"){
+                if (reset.children[i].name == "hand_1" || reset.children[i].name == "hand_2") continue;
+            }
+            else if (reset.name == "alpaca"){
+                if (reset.children[i].name == "ear_1" || reset.children[i].name == "ear_2") continue;
+            }
+            else if (reset.name == "scarecrow"){
+                if (reset.children[i].name == "leg") continue;
+            }
+            else if (reset.name == "snowman"){
+                if (reset.children[i].name == "hat_1") continue;
+            }
+            else if (reset.name == "car"){
+                if (reset.children[i].name == "wheel") continue;
+            }
+
+
             if (reset.children[i].getComponent(cc.Sprite) != null) reset.children[i].getComponent(cc.Sprite).enabled = true;
             if (reset.children[i].getComponent(cc.Button) != null) reset.children[i].getComponent(cc.Button).enabled = true;
             
@@ -290,6 +316,9 @@ cc.Class({
             }
             // Show Target Part
             this.m_target_wood = this.m_question_part.getChildByName(this.m_main_keyword).getChildByName(this.m_part_keyword);
+            if (this.m_main_keyword == "puppy" || this.m_main_keyword == "dinosaur" || this.m_main_keyword == "train" || this.m_main_keyword == "robot"){
+                this.m_target_wood.setPosition(-this.m_target_wood.width/2, this.m_target_wood.y);
+            }
             this.m_target_wood.active = true;
 
             this.m_question_part.active = true;
