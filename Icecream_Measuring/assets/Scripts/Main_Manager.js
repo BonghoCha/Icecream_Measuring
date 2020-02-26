@@ -545,8 +545,10 @@ cc.Class({
         // Instantiate Object
         var result = cc.instantiate(cc.find("Canvas/play/"+this.m_main_keyword));
         result.setScale(0.8);
+        if (this.m_main_keyword == "car") result.setScale(0.65);
         result.parent = this.m_result_part;
         if (this.m_main_keyword == "train") result.setPosition(10, 125);
+        else if( this.m_main_keyword == "car") result.setPosition(0, 100);
         this.m_result_part.active = true;
     },
 
