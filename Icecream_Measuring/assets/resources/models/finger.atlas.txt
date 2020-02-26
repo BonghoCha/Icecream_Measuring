@@ -1,0 +1,20 @@
+
+finger.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger
+  rotate: false
+  xy: 2, 2
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+wand_head
+  rotate: false
+  xy: 54, 4
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

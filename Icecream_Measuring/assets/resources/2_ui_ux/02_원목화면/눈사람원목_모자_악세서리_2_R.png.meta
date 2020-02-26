@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "3f446c56-aad1-49bc-b5d7-6a77e60a8f85",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "눈사람원목_모자_악세서리_2_R": {
+      "ver": "1.0.4",
+      "uuid": "c39eb27a-40c1-4d15-b35e-539222b3df97",
+      "rawTextureUuid": "3f446c56-aad1-49bc-b5d7-6a77e60a8f85",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 79,
+      "rawWidth": 64,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

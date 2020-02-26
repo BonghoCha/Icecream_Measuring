@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "64d6f0e3-f3ee-412f-bd77-d0138074ce4a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "공룡원목_무늬_1": {
+      "ver": "1.0.4",
+      "uuid": "50cb7643-3256-48ac-8f83-2cb930ab3102",
+      "rawTextureUuid": "64d6f0e3-f3ee-412f-bd77-d0138074ce4a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 277,
+      "rawWidth": 220,
+      "rawHeight": 277,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

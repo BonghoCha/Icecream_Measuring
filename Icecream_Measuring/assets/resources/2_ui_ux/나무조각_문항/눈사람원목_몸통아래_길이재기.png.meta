@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "d05383d0-b9c8-42df-a8e4-801619f1c02a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "눈사람원목_몸통아래_길이재기": {
+      "ver": "1.0.4",
+      "uuid": "171bc97b-b49a-449b-b560-c7328e8a648e",
+      "rawTextureUuid": "d05383d0-b9c8-42df-a8e4-801619f1c02a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 245,
+      "height": 218,
+      "rawWidth": 245,
+      "rawHeight": 218,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

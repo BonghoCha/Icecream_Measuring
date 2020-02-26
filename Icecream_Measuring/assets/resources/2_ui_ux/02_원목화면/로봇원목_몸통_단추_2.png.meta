@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "38a845ab-da1a-4663-96e8-659f89a358e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "로봇원목_몸통_단추_2": {
+      "ver": "1.0.4",
+      "uuid": "c9ec6f30-13dc-405f-a900-a60ce208d71a",
+      "rawTextureUuid": "38a845ab-da1a-4663-96e8-659f89a358e0",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 226,
+      "height": 224,
+      "rawWidth": 226,
+      "rawHeight": 224,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

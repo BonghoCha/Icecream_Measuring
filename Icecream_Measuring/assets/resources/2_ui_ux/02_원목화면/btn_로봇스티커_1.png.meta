@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "3bf79d6f-15a0-4920-82f6-55983291a4bb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_로봇스티커_1": {
+      "ver": "1.0.4",
+      "uuid": "9a1d7114-70cc-4c38-b636-4336a65777e2",
+      "rawTextureUuid": "3bf79d6f-15a0-4920-82f6-55983291a4bb",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 34,
+      "height": 75,
+      "rawWidth": 34,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

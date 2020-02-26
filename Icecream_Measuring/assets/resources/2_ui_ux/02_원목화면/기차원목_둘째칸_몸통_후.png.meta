@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "623d23cf-47a8-4208-b6d6-d064f6b1032c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "기차원목_둘째칸_몸통_후": {
+      "ver": "1.0.4",
+      "uuid": "120b42e6-ba7a-483c-bf96-e8e05f5c1ec3",
+      "rawTextureUuid": "623d23cf-47a8-4208-b6d6-d064f6b1032c",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 290,
+      "height": 189,
+      "rawWidth": 290,
+      "rawHeight": 189,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "29598dab-4ac6-4d90-8cb3-26af52f6e44d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "차원목_몸체_꼬리_기린": {
+      "ver": "1.0.4",
+      "uuid": "a58b0487-80f8-44f7-a42c-c7d16328d51b",
+      "rawTextureUuid": "29598dab-4ac6-4d90-8cb3-26af52f6e44d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 159,
+      "rawWidth": 204,
+      "rawHeight": 159,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

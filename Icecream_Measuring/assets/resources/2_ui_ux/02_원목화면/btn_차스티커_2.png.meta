@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "7c1ec0ca-9172-4cf6-9e5e-8af02b124ed3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_차스티커_2": {
+      "ver": "1.0.4",
+      "uuid": "6ef7ee63-7cd5-4fcf-a7b3-7b811707c08c",
+      "rawTextureUuid": "7c1ec0ca-9172-4cf6-9e5e-8af02b124ed3",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 98,
+      "rawWidth": 89,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

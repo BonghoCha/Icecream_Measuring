@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "2befa686-4089-44b1-8e3c-c848a4c3df83",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "강아지원목_몸통_옷1_와이셔츠": {
+      "ver": "1.0.4",
+      "uuid": "5dd7ab08-3bed-42be-a775-04e358f028e7",
+      "rawTextureUuid": "2befa686-4089-44b1-8e3c-c848a4c3df83",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 271,
+      "height": 188,
+      "rawWidth": 271,
+      "rawHeight": 188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

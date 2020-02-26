@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "fb8a8ae0-a242-4fc5-98d6-32b03abbf43d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "기차원목_첫칸_굴뚝": {
+      "ver": "1.0.4",
+      "uuid": "3866fa7e-50eb-49fc-b65d-caec9374ba3b",
+      "rawTextureUuid": "fb8a8ae0-a242-4fc5-98d6-32b03abbf43d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 57,
+      "height": 102,
+      "rawWidth": 57,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

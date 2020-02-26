@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "ed214a34-a9ef-47d4-aeef-54903c74ea49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "공룡원목_얼굴_표정1": {
+      "ver": "1.0.4",
+      "uuid": "00ac27eb-c434-42cd-91ef-a3bb446e19de",
+      "rawTextureUuid": "ed214a34-a9ef-47d4-aeef-54903c74ea49",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 95,
+      "height": 84,
+      "rawWidth": 95,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "25a47838-0ffd-4c25-a5a2-e1728d522b31",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "기차원목_첫칸_몸통_무늬1": {
+      "ver": "1.0.4",
+      "uuid": "1a95e777-8d0f-4036-8c5f-72e46838a054",
+      "rawTextureUuid": "25a47838-0ffd-4c25-a5a2-e1728d522b31",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 291,
+      "height": 124,
+      "rawWidth": 291,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

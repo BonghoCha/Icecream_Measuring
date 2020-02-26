@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "8b02dea0-c4e4-4f95-a13e-062a18a94c36",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "알파카원목_몸통_길이재기": {
+      "ver": "1.0.4",
+      "uuid": "7f5176ac-0a1d-451d-81ef-ad657d85de3c",
+      "rawTextureUuid": "8b02dea0-c4e4-4f95-a13e-062a18a94c36",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 291,
+      "height": 126,
+      "rawWidth": 291,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

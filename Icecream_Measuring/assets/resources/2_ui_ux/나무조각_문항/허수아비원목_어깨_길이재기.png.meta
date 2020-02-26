@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "de1e38da-b6de-41e1-8e51-475b0073a15a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "허수아비원목_어깨_길이재기": {
+      "ver": "1.0.4",
+      "uuid": "ef848b20-026d-4e8a-a3ca-048cc489a2d1",
+      "rawTextureUuid": "de1e38da-b6de-41e1-8e51-475b0073a15a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 54,
+      "rawWidth": 235,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

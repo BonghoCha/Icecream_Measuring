@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "d521f8bb-e28f-4a13-aba1-ac6680cb1bc7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "공룡원목_주둥이_길이재기": {
+      "ver": "1.0.4",
+      "uuid": "585de33e-9897-47fc-8ea2-f85e720bf9aa",
+      "rawTextureUuid": "d521f8bb-e28f-4a13-aba1-ac6680cb1bc7",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 192,
+      "height": 82,
+      "rawWidth": 192,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

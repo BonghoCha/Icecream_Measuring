@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "f0af9ee2-a880-4d46-869c-6bfbb1428506",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "눈사람원목_얼굴_길이재기": {
+      "ver": "1.0.4",
+      "uuid": "c396406e-9434-40d9-aa2f-e9a2723e5ce0",
+      "rawTextureUuid": "f0af9ee2-a880-4d46-869c-6bfbb1428506",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 141,
+      "height": 125,
+      "rawWidth": 141,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

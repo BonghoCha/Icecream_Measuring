@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "054f9bb8-1818-4ccf-b274-4f3290e2419c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_공룡스티커_3": {
+      "ver": "1.0.4",
+      "uuid": "01f6d814-d457-47b5-b662-1f15d07b1b6f",
+      "rawTextureUuid": "054f9bb8-1818-4ccf-b274-4f3290e2419c",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 62,
+      "rawWidth": 103,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

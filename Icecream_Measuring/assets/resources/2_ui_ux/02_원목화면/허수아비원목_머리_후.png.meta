@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "10a06939-7f5f-4aea-9199-3e00e018273b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "허수아비원목_머리_후": {
+      "ver": "1.0.4",
+      "uuid": "744cc2c7-4668-490f-b201-a5b82658000d",
+      "rawTextureUuid": "10a06939-7f5f-4aea-9199-3e00e018273b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 145,
+      "height": 124,
+      "rawWidth": 145,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

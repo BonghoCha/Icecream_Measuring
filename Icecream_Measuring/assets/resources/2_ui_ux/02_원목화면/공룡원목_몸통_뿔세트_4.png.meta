@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "96c589d3-e03c-4d04-a363-416800ccdae8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "공룡원목_몸통_뿔세트_4": {
+      "ver": "1.0.4",
+      "uuid": "250eaccd-0db5-42d5-93ce-a19437cb3f60",
+      "rawTextureUuid": "96c589d3-e03c-4d04-a363-416800ccdae8",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 218,
+      "height": 372,
+      "rawWidth": 218,
+      "rawHeight": 372,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

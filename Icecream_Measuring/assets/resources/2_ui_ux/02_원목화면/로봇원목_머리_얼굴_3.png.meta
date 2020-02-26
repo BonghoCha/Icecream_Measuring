@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "57f1c7ea-e273-45a0-bff8-cf17d155e3b8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "로봇원목_머리_얼굴_3": {
+      "ver": "1.0.4",
+      "uuid": "1b1ec1d5-7e07-4877-b4e0-0f120b0d99cb",
+      "rawTextureUuid": "57f1c7ea-e273-45a0-bff8-cf17d155e3b8",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 226,
+      "height": 148,
+      "rawWidth": 226,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

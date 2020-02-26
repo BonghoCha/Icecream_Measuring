@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "9856d56f-d45b-4dee-9545-afff7c2cc3a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "차원목_몸체_길이재기": {
+      "ver": "1.0.4",
+      "uuid": "81c6d711-5037-4ecd-918a-f704f6d0d37c",
+      "rawTextureUuid": "9856d56f-d45b-4dee-9545-afff7c2cc3a5",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 480,
+      "height": 204,
+      "rawWidth": 480,
+      "rawHeight": 204,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

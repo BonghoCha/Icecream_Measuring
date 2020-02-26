@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "f255e9ba-98b5-4a70-8f13-c2390774dc0d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "알파카원목_목_후": {
+      "ver": "1.0.4",
+      "uuid": "434f6f7e-a029-4165-8a17-ff958995ea77",
+      "rawTextureUuid": "f255e9ba-98b5-4a70-8f13-c2390774dc0d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 191,
+      "rawWidth": 69,
+      "rawHeight": 191,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
