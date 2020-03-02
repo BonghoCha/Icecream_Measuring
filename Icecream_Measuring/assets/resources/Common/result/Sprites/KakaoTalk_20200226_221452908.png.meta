@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "44de84f6-ed4e-43f4-a085-ac8779d266c2",
+  "uuid": "96b4a8c8-5130-4393-a263-d6281250297a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -9,10 +9,10 @@
   "packable": true,
   "platformSettings": {},
   "subMetas": {
-    "btn_question_popup_close": {
+    "KakaoTalk_20200226_221452908": {
       "ver": "1.0.4",
-      "uuid": "cf407395-c514-4aca-ab53-551535f655cc",
-      "rawTextureUuid": "44de84f6-ed4e-43f4-a085-ac8779d266c2",
+      "uuid": "ff766b80-8c77-4857-acdc-d9560ca38ca6",
+      "rawTextureUuid": "96b4a8c8-5130-4393-a263-d6281250297a",
       "trimType": "custom",
       "trimThreshold": 1,
       "rotated": false,
@@ -20,10 +20,10 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 64,
-      "height": 73,
-      "rawWidth": 64,
-      "rawHeight": 73,
+      "width": 944,
+      "height": 720,
+      "rawWidth": 944,
+      "rawHeight": 720,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

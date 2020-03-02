@@ -47,16 +47,19 @@ cc.Class({
         m_onSecondGuide : cc.Boolean,
         m_onRularGuide : cc.Boolean,
         m_onRularDragGuide : cc.Boolean,
-
-        m_onDragGuide : cc.Boolean,
+        m_onStickerGuide : cc.Boolean,
 
         m_onKeypadGuide : cc.Boolean,
+
+        m_ClickIntroButton : cc.Boolean,
+
+        m_result_start : cc.Boolean,
 
         m_blind : cc.Node,
     },
 
     ClickSound(){
-        cc.find("Canvas/Main_Manager").getComponent(cc.AudioSource).play();
+        this.node.getComponent(cc.AudioSource).play();
     },
 
     // *Click
@@ -65,7 +68,6 @@ cc.Class({
 
         this.m_main_keyword = customEventData;
 
-        console.log(this.m_main_keyword);
         if (this.m_main_keyword != "robot"){
             this.m_isRestarted = true;
             this.m_guide.opacity = 0;
@@ -135,8 +137,31 @@ cc.Class({
         }
     },
 
+    Replay(){
+        this.ClickSound();
+
+        this.m_blind.active = true;
+
+        var keyword = this.m_main_keyword;
+        cc.director.loadScene("Main_Scene", function(err, data){
+            var PlayScene = cc.director.getScene();
+            var Manager = PlayScene.getChildByName("Canvas").getChildByName("Main_Manager").getComponent("Main_Manager");
+
+            Manager.m_isRestarted = true;
+            Manager.Click(null, keyword);
+            PlayScene.getChildByName("Canvas").getChildByName("bg").getComponent(cc.AudioSource).stop();
+        });
+        /*
+        this.ReturnMain();
+
+        this.Click(null, this.m_main_keyword);
+        */
+    },
+
     ReturnMain(){
-        cc.find("Canvas/play_res/close").active = false;
+        this.ClickSound();
+
+        cc.find("Canvas/play_res/close").active = false;        
 
         // BG Sound Play
         cc.find("Canvas/bg").getComponent(cc.AudioSource).play();                    
@@ -179,6 +204,14 @@ cc.Class({
             }
         }
 
+        cc.loader.loadRes("Prefabs/"+this.m_main_keyword, cc.Prefab, function(err, prefab){
+            var new_obj = cc.instantiate(prefab);
+            new_obj.active = false;
+            for (var i = 0; i < reset.children.length; i++){
+                reset.children[i].getComponent
+            }
+        })
+
         for (var i = 0; i < reset.children[reset.children.length-1].children.length; i++){
             for (var j = 0; j < reset.children[reset.children.length-1].children[i].children.length; j++){
                 reset.children[reset.children.length-1].children[i].children[j].active = false;
@@ -208,6 +241,20 @@ cc.Class({
         if (this.m_keypad_part.active) this.m_keypad_part.active = false;        
     },
 
+    Restart() {
+        this.ClickSound();
+
+        this.m_blind.active = true;
+        this.m_blind.runAction(cc.sequence(cc.fadeIn(1), cc.callFunc(function(){
+            cc.director.loadScene("Main_Scene", function(err, data){
+                var PlayScene = cc.director.getScene();
+                var Manager = PlayScene.getChildByName("Canvas").getChildByName("Main_Manager").getComponent("Main_Manager");
+
+                Manager.m_isRestarted = true;
+            });
+        }, this)));
+    },
+    
     ClickKeypad(event, customEventData){
         this.ClickSound();
 
@@ -324,7 +371,7 @@ cc.Class({
             this.m_question_part.active = true;
 
             // Debug
-            this.m_answer.string = this.m_current_part_answer[0];
+            //this.m_answer.string = this.m_current_part_answer[0];
         }
         else {
             this.m_question_part.active = false;
@@ -351,7 +398,8 @@ cc.Class({
             console.log("정답");
             
             this.m_question_part.getChildByName("correct").active = true;
-            this.node.runAction(cc.sequence(cc.delayTime(1.5), cc.callFunc(function(){
+            this.m_question_part.getChildByName("correct").getComponent(cc.AudioSource).play();
+            this.m_question_part.getChildByName("correct").runAction(cc.sequence(cc.fadeIn(0.25), cc.delayTime(1), cc.fadeOut(0.25), cc.callFunc(function(){
                 this.m_question_part.getChildByName("correct").active = false;
                 this.m_question_part.active = false;
                 this.m_answer.string = "?";
@@ -368,9 +416,12 @@ cc.Class({
             console.log("오답");
 
             this.m_question_part.getChildByName("wrong").active = true;
-            this.node.runAction(cc.sequence(cc.delayTime(1.5), cc.callFunc(function(){
+            this.m_question_part.getChildByName("wrong").getComponent(cc.AudioSource).play();
+            this.m_question_part.getChildByName("wrong").runAction(cc.sequence(cc.fadeIn(0.25), cc.delayTime(1.25), cc.fadeOut(0.5), cc.callFunc(function(){
                 this.m_question_part.getChildByName("wrong").active = false;
                 //this.m_question_part.active = false;
+
+                this.m_answer.string = "";
 
                 this.m_blind.active = false;
 
@@ -546,22 +597,42 @@ cc.Class({
                 click2.setPosition(cc.find("Canvas/play/"+self.m_main_keyword+"/"+self.m_part_keyword+"_2").getPosition());
             });
         }
-        console.log(this.m_clear_num +"!!!!!!!!!!!!"+ this.m_current_clear_num);
         if (this.m_clear_num <= this.m_current_clear_num){
             cc.loader.loadRes("Prefabs/"+this.m_main_keyword+"_sticker", cc.Prefab, function(err, prefab){
                 cc.find("Canvas/play_res/close").active = false;
 
                 var prefab = cc.instantiate(prefab);
-                console.log(prefab.name);
                 prefab.parent = cc.find("Canvas/play_res");
                 cc.find("Canvas/play_res/reset").active = true;
                 cc.find("Canvas/btn_clear").active = true;
+
+                if (!self.m_isRestarted && !self.m_isStickerGuide){
+                    self.m_drag_guide.setPosition(-520, 245);
+                    self.m_drag_guide.stopAllActions();
+                    self.m_drag_guide.runAction(cc.sequence(cc.spawn(cc.fadeIn(0.25), cc.moveTo(1.5, 0, 40).easing(cc.easeIn(1))), cc.spawn(cc.fadeOut(0.25), cc.delayTime(0.25)), cc.callFunc(function(){
+                        self.m_drag_guide.setPosition(-520, 245);
+                    }, self)).repeatForever());
+                }
             });
         }
     },
 
     ShowResult(){
         this.ClickSound();
+
+        this.m_result_start = true;
+
+        this.m_result_part.getChildByName("result").active = false;
+
+        if (!this.m_isRestarted && !this.m_isStickerGuide){
+            this.m_isStickerGuide = true;
+
+            this.m_drag_guide.stopAllActions();
+            this.m_drag_guide.runAction(cc.fadeOut(0.5));
+        }
+
+        this.m_drag_guide.stopAllActions();
+        this.m_drag_guide.opacity = 0;
 
         this.m_result_part.getChildByName("Firework").getChildByName("firework").getComponent(cc.AudioSource).play();
         this.m_result_part.getChildByName("Firework").getChildByName("clap").getComponent(cc.AudioSource).play();
@@ -573,12 +644,25 @@ cc.Class({
 
         // Instantiate Object
         var result = cc.instantiate(cc.find("Canvas/play/"+this.m_main_keyword));
-        result.setScale(0.8);
         if (this.m_main_keyword == "car") result.setScale(0.65);
-        result.parent = this.m_result_part;
-        if (this.m_main_keyword == "train") result.setPosition(10, 125);
-        else if( this.m_main_keyword == "car") result.setPosition(0, 100);
+        else result.setScale(1);
+
+        result.parent = this.m_result_part.getChildByName("toy");
+
+        if (this.m_main_keyword == "puppy") result.setPosition(0, 80);
+        if (this.m_main_keyword == "dinosaur") result.setPosition(0, 75);
+        if (this.m_main_keyword == "train") result.setPosition(45, 165);
+        if (this.m_main_keyword == "robot") result.setPosition(0, 80);
+        if (this.m_main_keyword == "alpaca") result.setPosition(20, 100);
+        if (this.m_main_keyword == "scarecrow") result.setPosition(-20, 65);
+        if (this.m_main_keyword == "snowman") result.setPosition(-15, 70);
+        if (this.m_main_keyword == "car") result.setPosition(0, 40);
+
         this.m_result_part.active = true;
+
+        this.node.runAction(cc.sequence(cc.delayTime(5), cc.callFunc(function(){
+            this.m_result_part.getChildByName("result").active = true;
+        }, this)));
     },
 
     // *Show Ruler
@@ -612,7 +696,7 @@ cc.Class({
         this.ClickSound();
         
         var pre_obj = cc.find("Canvas/play/"+this.m_main_keyword);
-        cc.loader.loadRes("Prefabs/"+this.m_main_keyword    , cc.Prefab, function(err, prefab){
+        cc.loader.loadRes("Prefabs/"+this.m_main_keyword, cc.Prefab, function(err, prefab){
             var new_obj = cc.instantiate(prefab);
             new_obj.parent = cc.find("Canvas/play");
             new_obj.setPosition(pre_obj.getPosition());
@@ -620,14 +704,16 @@ cc.Class({
         })
     },
 
-    // LIFE-CYCLE CALLBACKS:
+    IntroAni(){
+        if (this.m_ClickIntroButton) return;
 
-    // onLoad () {},
+        this.m_ClickIntroButton = true;
 
-    start () {
-        // Collider
-        var manager = cc.director.getCollisionManager();
-        manager.enabled = true;
+        if (!cc.find("Canvas/play").active) cc.find("Canvas/bg").getComponent(cc.AudioSource).play();
+
+        cc.find("Canvas/start").runAction(cc.sequence(cc.fadeOut(1), cc.callFunc(function(){
+            cc.find("Canvas/start").active = false;
+        }, this)));
 
         if (!this.m_isRestarted && !this.m_onFirstGuide){
             this.m_guide.setPosition(-170, -240);
@@ -635,31 +721,32 @@ cc.Class({
             this.m_guide.stopAllActions();
             this.m_guide.runAction(cc.fadeIn(0.5));
         }
-
-        /*
-        for (var i = 0; i < 8; i++){
-            let main = cc.find("Canvas/question").children[i + 6];
-            console.log("<<<<<"+main.name);
-            for (var j = 0; j < main.children.length; j++){
-                if (main.children[j].name != "wheel"){
-                    if (main.children[j].width > 30 && main.children[j].width < 45){
-                        main.children[j].width = 40;
-                    }
-                    else if (main.children[j].width > 40) {
-                        var initial = parseInt(main.children[j].width / 40);
-                        console.log(initial + " = " + main.children[j].width + " / 40");
-                        var temp = main.children[j].width % 40;
-                        console.log(temp + " = " + main.children[j].width + " % 40");
-                        if (temp >= 20) initial += 1;
-                        main.children[j].width = initial * 40;
-                        console.log(main.children[j].name + " = " + main.children[j].width);
-                    }
-                }
-                
-            }
-        }
-        */
     },
 
-    //update (dt) {},
+    // LIFE-CYCLE CALLBACKS:
+
+    // onLoad () {},
+
+    start () {
+        if (this.m_isRestarted) {
+            cc.find("Canvas/start").active = false;
+            this.IntroAni();
+        }
+        // Collider
+        var manager = cc.director.getCollisionManager();
+        manager.enabled = true;
+    },
+
+    update (dt) {
+        if (this.m_result_start){
+            cc.find("Canvas/play").getComponent(cc.AudioSource).volume -= 0.001;
+            console.log(cc.find("Canvas/play").getComponent(cc.AudioSource).volume);
+            if (cc.find("Canvas/play").getComponent(cc.AudioSource).volume <= 0){
+                cc.find("Canvas/play").getComponent(cc.AudioSource).volume = 0
+                cc.find("Canvas/play").getComponent(cc.AudioSource).stop();
+                this.m_result_start = false;
+            }
+        }
+
+    },
 });

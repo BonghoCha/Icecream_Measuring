@@ -57,6 +57,8 @@ cc.Class({
     onLoad () {
         if (this.node.name == "ruler"){
             this.node.on(cc.Node.EventType.TOUCH_START, function(event){
+                this.ClickSound();
+
                 if (!this.m_manager.m_isRestarted && !this.m_manager.m_onKeypadGuide){
                     this.m_manager.m_onRularDragGuide = true;
 
@@ -84,6 +86,13 @@ cc.Class({
             this.node.on(cc.Node.EventType.TOUCH_START, function(event){
                 this.ClickSound();
                 
+                if (!this.m_manager.m_isRestarted && !this.m_manager.m_isStickerGuide){
+                    this.m_manager.m_isStickerGuide = true;
+
+                    this.m_manager.m_drag_guide.stopAllActions();
+                    this.m_manager.m_drag_guide.runAction(cc.fadeOut(0.5));
+                }
+
                 this.node.stopAllActions();
                 this.node.runAction(cc.scaleTo(0.1, 0.95));
                 this.node.getComponent(cc.BoxCollider).enabled = true;
