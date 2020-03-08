@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "492fab26-6e5a-4aec-bfa3-3ac4a92329a1",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 218,
+  "height": 140,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_머리_길이재기": {

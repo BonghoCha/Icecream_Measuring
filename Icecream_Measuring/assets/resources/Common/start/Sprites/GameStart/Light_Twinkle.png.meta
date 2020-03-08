@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "6866ca1f-eda2-4071-b7d1-a646604a7db5",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 189,
+  "height": 189,
   "platformSettings": {},
   "subMetas": {
     "Light_Twinkle": {

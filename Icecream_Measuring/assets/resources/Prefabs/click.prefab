@@ -46,7 +46,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         0,
         0,
@@ -92,7 +92,9 @@
     "_file": {
       "__uuid__": "a915ce61-1ba8-4469-bc8a-29bb9a1be276"
     },
-    "_spriteFrame": null,
+    "_spriteFrame": {
+      "__uuid__": "8197cbd3-88ba-4fcf-a381-aee8ea13c413"
+    },
     "_texture": null,
     "_stopped": true,
     "playOnLoad": true,
@@ -111,10 +113,10 @@
     },
     "_startColorVar": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "a": 0
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
     },
     "_endColor": {
       "__type__": "cc.Color",
@@ -128,11 +130,11 @@
       "r": 255,
       "g": 255,
       "b": 255,
-      "a": 0
+      "a": 255
     },
     "angle": 76,
     "angleVar": 180,
-    "startSize": 30,
+    "startSize": 50,
     "startSizeVar": 10,
     "endSize": -1,
     "endSizeVar": 0,

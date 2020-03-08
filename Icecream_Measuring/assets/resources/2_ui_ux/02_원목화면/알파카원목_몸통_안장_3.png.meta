@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "b577ca3d-969c-4545-80bf-088d6100d7c4",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 207,
+  "height": 168,
   "platformSettings": {},
   "subMetas": {
     "알파카원목_몸통_안장_3": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "c23517bc-20b8-4e11-8726-50acd01b54b1",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 69,
+  "height": 113,
   "platformSettings": {},
   "subMetas": {
     "기차원목_첫칸_얼굴_2": {

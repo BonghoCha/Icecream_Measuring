@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d5ae22e2-b166-4122-81b6-b1903d80b9f3",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 87,
+  "height": 84,
   "platformSettings": {},
   "subMetas": {
     "기차원목_바퀴_길이재기": {

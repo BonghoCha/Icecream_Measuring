@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "96b4a8c8-5130-4393-a263-d6281250297a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 944,
+  "height": 720,
   "platformSettings": {},
   "subMetas": {
     "KakaoTalk_20200226_221452908": {

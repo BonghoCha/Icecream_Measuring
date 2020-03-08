@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "6c7027f9-7fea-468a-a16a-324ba481f2a7",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 238,
+  "height": 247,
   "platformSettings": {},
   "subMetas": {
     "공룡": {

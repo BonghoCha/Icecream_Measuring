@@ -80,7 +80,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         0,
         269.4930114746094,
@@ -150,7 +150,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         -522.0139770507812,
         -3.197000026702881,
@@ -301,7 +301,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         -393.9800109863281,
         -1.9140000343322754,
@@ -452,7 +452,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         -271.8030090332031,
         -6.625999927520752,
@@ -603,7 +603,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         -158.81900024414062,
         -2.8010001182556152,
@@ -754,7 +754,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         -20.141000747680664,
         -2.5969998836517334,
@@ -905,7 +905,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         89.57099914550781,
         -1.6729999780654907,
@@ -1056,7 +1056,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         211.04600524902344,
         2.2190001010894775,
@@ -1207,7 +1207,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         325.0409851074219,
         2.428999900817871,
@@ -1358,7 +1358,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         429.5060119628906,
         -0.1469999998807907,
@@ -1509,7 +1509,7 @@
     },
     "_trs": {
       "__type__": "TypedArray",
-      "ctor": "Float32Array",
+      "ctor": "Float64Array",
       "array": [
         519.2420043945312,
         -0.026000000536441803,

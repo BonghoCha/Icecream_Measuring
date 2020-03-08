@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d05383d0-b9c8-42df-a8e4-801619f1c02a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 245,
+  "height": 218,
   "platformSettings": {},
   "subMetas": {
     "눈사람원목_몸통아래_길이재기": {

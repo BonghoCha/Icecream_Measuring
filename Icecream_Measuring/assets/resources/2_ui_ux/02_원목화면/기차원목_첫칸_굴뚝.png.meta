@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "fb8a8ae0-a242-4fc5-98d6-32b03abbf43d",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 57,
+  "height": 102,
   "platformSettings": {},
   "subMetas": {
     "기차원목_첫칸_굴뚝": {

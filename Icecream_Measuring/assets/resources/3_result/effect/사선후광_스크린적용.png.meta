@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "7179d742-c34a-4091-af4a-4a8f1a9ea5a0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 605,
+  "height": 552,
   "platformSettings": {},
   "subMetas": {
     "사선후광_스크린적용": {

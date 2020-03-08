@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d96d5fc5-8413-4786-ae47-9ab58656f1a1",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 88,
+  "height": 66,
   "platformSettings": {},
   "subMetas": {
     "btn_공룡스티커_1": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "a88c9c1e-67a6-4c7c-b6bd-0e98c487a46c",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 387,
+  "height": 165,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_꾸밈_수풀": {

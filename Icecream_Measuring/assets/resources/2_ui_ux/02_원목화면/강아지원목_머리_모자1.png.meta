@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "b96d4038-caab-448d-b1ac-9ed2316cce67",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 219,
+  "height": 111,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_머리_모자1": {

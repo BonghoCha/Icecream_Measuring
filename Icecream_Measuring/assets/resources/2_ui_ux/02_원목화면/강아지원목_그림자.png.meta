@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "0ee68cf5-a33d-449c-8e17-8ea61d9ad9df",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 424,
+  "height": 377,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_그림자": {

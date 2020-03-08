@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "1f4af32d-7caf-40b8-a824-36d2c957d12e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 290,
+  "height": 189,
   "platformSettings": {},
   "subMetas": {
     "기차원목_셋째칸_몸통_후": {

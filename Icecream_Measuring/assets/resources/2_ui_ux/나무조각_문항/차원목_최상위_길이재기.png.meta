@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "6d12ee98-e48a-42e9-8115-ec142ba87e16",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 319,
+  "height": 73,
   "platformSettings": {},
   "subMetas": {
     "차원목_최상위_길이재기": {

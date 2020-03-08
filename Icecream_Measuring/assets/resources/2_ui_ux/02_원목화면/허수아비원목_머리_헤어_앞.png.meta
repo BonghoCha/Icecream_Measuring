@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "09c2e4c6-e35e-4962-abd6-519bcf767eeb",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 49,
+  "height": 64,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_머리_헤어_앞": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "3c6ddd87-4cec-45e1-9892-a8c556bd3763",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 4,
+  "height": 460,
   "platformSettings": {},
   "subMetas": {
     "길이재기_수직실선": {

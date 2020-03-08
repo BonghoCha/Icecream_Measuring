@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "47715975-db8c-4a4a-b17d-590e9d10eb49",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 60,
+  "height": 53,
   "platformSettings": {},
   "subMetas": {
     "눈사람원목_모자_악세서리_1": {

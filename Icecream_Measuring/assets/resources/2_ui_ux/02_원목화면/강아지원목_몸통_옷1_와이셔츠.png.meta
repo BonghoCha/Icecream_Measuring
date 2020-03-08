@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "2befa686-4089-44b1-8e3c-c848a4c3df83",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 271,
+  "height": 188,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_몸통_옷1_와이셔츠": {

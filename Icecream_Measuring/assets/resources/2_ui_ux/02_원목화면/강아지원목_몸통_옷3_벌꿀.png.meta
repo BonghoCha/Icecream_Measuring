@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "9a6bb8f6-4024-4e43-94a5-c23401ac4018",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 271,
+  "height": 188,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_몸통_옷3_벌꿀": {

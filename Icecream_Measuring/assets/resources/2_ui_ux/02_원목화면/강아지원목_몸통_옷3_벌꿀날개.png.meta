@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "17f80934-11f9-4a53-94ea-2171c67ef3f7",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 462,
+  "height": 181,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_몸통_옷3_벌꿀날개": {

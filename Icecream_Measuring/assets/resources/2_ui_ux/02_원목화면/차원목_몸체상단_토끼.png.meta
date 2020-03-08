@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "f65a2cfb-94f4-4ce9-a7b5-11952baaa281",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 387,
+  "height": 159,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체상단_토끼": {

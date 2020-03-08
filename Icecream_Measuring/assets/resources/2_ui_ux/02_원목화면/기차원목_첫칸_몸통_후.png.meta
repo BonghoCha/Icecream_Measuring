@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d6ab54e5-47e5-49c3-afae-b5c052c8129d",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 291,
+  "height": 124,
   "platformSettings": {},
   "subMetas": {
     "기차원목_첫칸_몸통_후": {

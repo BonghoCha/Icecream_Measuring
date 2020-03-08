@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "de636f62-3ee9-4532-95f0-0afc1efff9e2",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 176,
+  "height": 160,
   "platformSettings": {},
   "subMetas": {
     "차원목_최상위_토끼_귀": {

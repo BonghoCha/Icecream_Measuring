@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "10a06939-7f5f-4aea-9199-3e00e018273b",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 145,
+  "height": 124,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_머리_후": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "f55bf48c-6a9b-40ae-925b-20d14c060688",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 226,
+  "height": 224,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_몸통_단추_1": {

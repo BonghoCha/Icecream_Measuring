@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "b834f295-bc47-425c-80ce-d1d2d68570f5",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 253,
+  "height": 226,
   "platformSettings": {},
   "subMetas": {
     "눈사람원목_몸통아래_단추2": {

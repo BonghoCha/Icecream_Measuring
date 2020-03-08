@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "c48b4b08-76aa-4e7a-998e-e547b5f1c77b",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 110,
+  "height": 100,
   "platformSettings": {},
   "subMetas": {
     "눈사람원목_모자_길이재기": {

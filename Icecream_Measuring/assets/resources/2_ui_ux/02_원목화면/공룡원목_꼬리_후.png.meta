@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "307653b1-3770-46cf-86d3-cbba68b3dbdf",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 198,
+  "height": 53,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_꼬리_후": {

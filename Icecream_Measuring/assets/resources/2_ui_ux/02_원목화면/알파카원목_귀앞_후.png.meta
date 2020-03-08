@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "a81519f7-18df-467c-a498-25207301d480",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 49,
+  "height": 99,
   "platformSettings": {},
   "subMetas": {
     "알파카원목_귀앞_후": {

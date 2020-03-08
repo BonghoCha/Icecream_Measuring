@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "fc52ec63-8647-496c-801d-10460561f54a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 96,
+  "height": 265,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_다리앞_전": {

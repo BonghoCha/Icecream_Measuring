@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "390658fa-c74d-4612-9210-b96045a5977b",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 569,
+  "height": 170,
   "platformSettings": {},
   "subMetas": {
     "기차": {

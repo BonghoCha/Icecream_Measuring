@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "820a0dc6-aefb-43bc-900c-08e65b8d6d00",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 64,
+  "height": 142,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_머리_왼쪽귀_전": {

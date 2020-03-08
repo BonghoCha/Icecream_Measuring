@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "c68afad9-48d5-4916-8531-83c8e5abf229",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 122,
+  "height": 272,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_몸통_전": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "72d6fa5d-f726-445f-88fd-912a7f7e8bb0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 115,
+  "height": 58,
   "platformSettings": {},
   "subMetas": {
     "btn_알파카스티커_4": {

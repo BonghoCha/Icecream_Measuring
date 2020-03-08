@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "eb1f0db5-fbca-4fda-a29d-72eb924f6591",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 271,
+  "height": 188,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_몸통_후": {

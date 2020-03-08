@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "4361befc-c198-4405-859a-37f0d5b33bbd",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 254,
+  "height": 136,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_머리_모자1_뒤": {

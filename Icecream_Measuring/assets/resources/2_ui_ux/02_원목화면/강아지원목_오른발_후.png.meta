@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "ee4bf6cb-55f0-4538-b4f5-c8cd9ad81b04",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 101,
+  "height": 94,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_오른발_후": {

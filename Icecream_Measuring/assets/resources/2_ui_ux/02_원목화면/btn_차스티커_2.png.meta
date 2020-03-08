@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "7c1ec0ca-9172-4cf6-9e5e-8af02b124ed3",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 89,
+  "height": 98,
   "platformSettings": {},
   "subMetas": {
     "btn_차스티커_2": {

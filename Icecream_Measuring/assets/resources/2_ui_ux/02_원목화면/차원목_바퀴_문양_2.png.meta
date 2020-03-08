@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "67065b7f-aa57-4cbf-ba33-d20d6977b84f",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 364,
+  "height": 123,
   "platformSettings": {},
   "subMetas": {
     "차원목_바퀴_문양_2": {

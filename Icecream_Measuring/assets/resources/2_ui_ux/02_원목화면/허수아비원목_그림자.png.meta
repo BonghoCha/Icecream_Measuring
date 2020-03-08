@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "7e3fa996-3cc6-4ac0-b79e-5c0610d4c4eb",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 323,
+  "height": 457,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_그림자": {

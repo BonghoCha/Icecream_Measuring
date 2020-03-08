@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "9856d56f-d45b-4dee-9545-afff7c2cc3a5",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 480,
+  "height": 204,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_길이재기": {

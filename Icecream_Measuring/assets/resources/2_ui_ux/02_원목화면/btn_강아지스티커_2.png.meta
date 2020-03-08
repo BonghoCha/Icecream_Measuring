@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "78753cdf-b972-4e69-a505-08f80e53b7df",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 109,
+  "height": 88,
   "platformSettings": {},
   "subMetas": {
     "btn_강아지스티커_2": {

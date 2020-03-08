@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "182586ab-4c5b-4b40-a6b0-dd331840a18b",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 261,
+  "height": 59,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_목_목걸이_1": {

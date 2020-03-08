@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "831182f1-5357-4551-a6b0-0631f8d7d423",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 181,
+  "height": 53,
   "platformSettings": {},
   "subMetas": {
     "기차원목_첫칸_천장_전": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "1079411f-37ee-49a2-8fff-3f6a8d3d79bf",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 166,
+  "height": 101,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_머리_모자_2": {

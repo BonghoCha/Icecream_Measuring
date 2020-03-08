@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "67839dde-3bbe-4fa0-a86b-4859c16d2b0d",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 87,
+  "height": 108,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_기린_뿔": {

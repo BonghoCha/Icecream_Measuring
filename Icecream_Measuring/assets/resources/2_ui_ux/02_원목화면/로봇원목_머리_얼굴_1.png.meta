@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "f15f7c37-bd40-43bf-9161-8c1cfb8306e0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 226,
+  "height": 148,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_머리_얼굴_1": {

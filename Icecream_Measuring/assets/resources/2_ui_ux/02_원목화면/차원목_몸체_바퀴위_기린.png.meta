@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "0b2891aa-0f53-4341-9c9e-b595ce4145de",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 432,
+  "height": 85,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_바퀴위_기린": {

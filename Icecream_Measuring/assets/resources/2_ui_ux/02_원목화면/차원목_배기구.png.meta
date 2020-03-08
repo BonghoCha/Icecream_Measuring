@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "c6aac14e-d1f7-4a59-9efb-3c198473936c",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 67,
+  "height": 84,
   "platformSettings": {},
   "subMetas": {
     "차원목_배기구": {

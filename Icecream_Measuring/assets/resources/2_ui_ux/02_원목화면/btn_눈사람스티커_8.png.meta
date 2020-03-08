@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d1110299-19b9-4615-bb9f-ac8c5eb9a75c",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 72,
+  "height": 87,
   "platformSettings": {},
   "subMetas": {
     "btn_눈사람스티커_8": {

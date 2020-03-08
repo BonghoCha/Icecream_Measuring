@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "29598dab-4ac6-4d90-8cb3-26af52f6e44d",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 204,
+  "height": 159,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_꼬리_기린": {

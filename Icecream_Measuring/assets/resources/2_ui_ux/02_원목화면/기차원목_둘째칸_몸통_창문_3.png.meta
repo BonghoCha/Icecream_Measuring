@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "6f37f3d7-748a-4152-9c92-6eac09affc1f",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 290,
+  "height": 189,
   "platformSettings": {},
   "subMetas": {
     "기차원목_둘째칸_몸통_창문_3": {

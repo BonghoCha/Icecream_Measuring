@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "42a2ebb1-4db5-4d63-b8d9-43aae496c433",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 140,
+  "height": 93,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_머리_안테나_1": {

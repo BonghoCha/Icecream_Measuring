@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "0de562cf-32a7-41b4-a48e-f38d50b5749d",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 69,
+  "height": 78,
   "platformSettings": {},
   "subMetas": {
     "기차원목_셋째칸_연결부위_전": {

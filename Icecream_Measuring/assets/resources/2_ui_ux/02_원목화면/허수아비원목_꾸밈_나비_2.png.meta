@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "3cc8afa9-7f91-4786-9291-710d5ec4cf47",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 51,
+  "height": 43,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_꾸밈_나비_2": {

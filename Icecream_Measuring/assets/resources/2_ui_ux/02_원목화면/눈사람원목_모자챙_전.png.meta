@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d16a0b07-cb40-47ea-8f67-525ac63f864e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 253,
+  "height": 77,
   "platformSettings": {},
   "subMetas": {
     "눈사람원목_모자챙_전": {

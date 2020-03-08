@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "e44263d5-33f6-4277-bd33-e64f2df05aa3",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 63,
+  "height": 69,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_목_목걸이_3_방울": {

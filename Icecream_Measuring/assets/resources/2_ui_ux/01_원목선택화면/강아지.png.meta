@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "83c2e0c4-a969-4089-a488-aaa8fc4d68c4",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 178,
+  "height": 176,
   "platformSettings": {},
   "subMetas": {
     "강아지": {

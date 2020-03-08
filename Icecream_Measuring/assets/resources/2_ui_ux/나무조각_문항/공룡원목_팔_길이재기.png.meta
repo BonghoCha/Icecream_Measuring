@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "4f1462dd-c33d-4489-8d18-ad11b9bc9cf4",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 176,
+  "height": 74,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_팔_길이재기": {

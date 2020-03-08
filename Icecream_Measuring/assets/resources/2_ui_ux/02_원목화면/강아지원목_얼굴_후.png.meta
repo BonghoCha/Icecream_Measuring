@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "4189d2b3-6f0e-4f9f-b921-89d41f57a032",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 228,
+  "height": 194,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_얼굴_후": {

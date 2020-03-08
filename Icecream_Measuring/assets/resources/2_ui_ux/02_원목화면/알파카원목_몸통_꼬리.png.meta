@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "e1492ae0-4332-464e-bbfe-3c0614848934",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 60,
+  "height": 64,
   "platformSettings": {},
   "subMetas": {
     "알파카원목_몸통_꼬리": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "66ac1367-d03f-45cd-9328-5f25a3bf29ad",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 84,
+  "height": 95,
   "platformSettings": {},
   "subMetas": {
     "btn_허수아비스티커_6": {

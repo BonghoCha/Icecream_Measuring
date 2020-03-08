@@ -1,18 +1,20 @@
 {
-  "ver": "2.3.3",
-  "uuid": "0f58109e-6d3d-4f2b-844f-9ffc528e68b6",
+  "ver": "2.3.4",
+  "uuid": "ee40d7cc-f135-4895-a694-ef3dbadefc27",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 37,
+  "height": 37,
   "platformSettings": {},
   "subMetas": {
-    "별_초록": {
+    "별_다홍": {
       "ver": "1.0.4",
-      "uuid": "79adc932-a723-4bce-8859-905d18699bb3",
-      "rawTextureUuid": "0f58109e-6d3d-4f2b-844f-9ffc528e68b6",
+      "uuid": "b53bd26a-47ad-480c-bb07-ea9ea4f16230",
+      "rawTextureUuid": "ee40d7cc-f135-4895-a694-ef3dbadefc27",
       "trimType": "custom",
       "trimThreshold": 1,
       "rotated": false,

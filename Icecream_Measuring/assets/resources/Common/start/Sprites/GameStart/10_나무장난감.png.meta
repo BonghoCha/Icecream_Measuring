@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "666abe9c-d2d0-43d4-ad80-d8623ae5a13e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 666,
+  "height": 319,
   "platformSettings": {},
   "subMetas": {
     "10_나무장난감": {

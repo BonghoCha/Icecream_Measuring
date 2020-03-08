@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "9ffb9ce4-6f0a-4a16-b8a1-00cd5b3e43cb",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 20,
+  "height": 210,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_다리_길이재기": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "18cdb4f6-8e0c-4cd5-afcc-651a06c8b10d",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 242,
+  "height": 176,
   "platformSettings": {},
   "subMetas": {
     "차": {

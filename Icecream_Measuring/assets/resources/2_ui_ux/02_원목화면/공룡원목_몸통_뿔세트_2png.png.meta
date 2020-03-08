@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "b183756d-9465-4a78-8f87-9838430f3cb8",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 218,
+  "height": 372,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_몸통_뿔세트_2png": {

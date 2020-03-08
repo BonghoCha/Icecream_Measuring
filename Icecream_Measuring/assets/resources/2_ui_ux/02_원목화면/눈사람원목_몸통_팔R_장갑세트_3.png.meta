@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "39068b38-7e12-451b-b20f-94f83b3b6301",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 153,
+  "height": 151,
   "platformSettings": {},
   "subMetas": {
     "눈사람원목_몸통_팔R_장갑세트_3": {

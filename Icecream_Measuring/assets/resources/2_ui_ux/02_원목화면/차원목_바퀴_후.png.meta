@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "eec0d9d7-5bd7-4716-9fba-64b8eba15c43",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 364,
+  "height": 123,
   "platformSettings": {},
   "subMetas": {
     "차원목_바퀴_후": {

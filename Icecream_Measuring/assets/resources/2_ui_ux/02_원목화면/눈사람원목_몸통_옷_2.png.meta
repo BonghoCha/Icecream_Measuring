@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "7d882ae6-c586-44f8-918f-d8b04913b60b",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 245,
+  "height": 337,
   "platformSettings": {},
   "subMetas": {
     "눈사람원목_몸통_옷_2": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "56261410-bdb5-4d55-828a-607219f1c1e3",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 24,
+  "height": 103,
   "platformSettings": {},
   "subMetas": {
     "기차원목_첫칸_기둥_길이재기": {

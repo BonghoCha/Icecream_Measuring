@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "10296151-263a-468d-9a9e-8d5da64364e5",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 95,
+  "height": 84,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_얼굴_표정3": {

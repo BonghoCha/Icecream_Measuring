@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "8744a427-c064-4465-a4b7-d477072cd870",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 297,
+  "height": 140,
   "platformSettings": {},
   "subMetas": {
     "알파카원목_다리_양말_2": {

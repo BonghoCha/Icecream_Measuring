@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "a01d7cad-61c6-446d-b754-2e89e8fcf35e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 297,
+  "height": 140,
   "platformSettings": {},
   "subMetas": {
     "알파카원목_다리_전": {

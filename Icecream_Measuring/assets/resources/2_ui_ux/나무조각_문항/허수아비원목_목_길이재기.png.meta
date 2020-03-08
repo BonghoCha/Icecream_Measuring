@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d29cae5d-6ceb-40fd-a581-995c3d18150c",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 37,
+  "height": 35,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_목_길이재기": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "57a68b7f-4e6e-48e5-8181-749a94475e19",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 200,
+  "height": 90,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_주둥이_전": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "dc677c70-8fe1-4304-a16b-3569c4f12cc0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 177,
+  "height": 106,
   "platformSettings": {},
   "subMetas": {
     "btn_완료버튼_기본": {

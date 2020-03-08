@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "9c74bf55-3a42-4a68-911b-9ac72bfaff6e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 364,
+  "height": 123,
   "platformSettings": {},
   "subMetas": {
     "차원목_바퀴_토끼": {

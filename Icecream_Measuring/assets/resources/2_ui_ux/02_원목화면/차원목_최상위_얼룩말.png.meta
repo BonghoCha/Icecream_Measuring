@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "bff62698-5e6d-4de2-bef0-350e30101163",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 327,
+  "height": 81,
   "platformSettings": {},
   "subMetas": {
     "차원목_최상위_얼룩말": {

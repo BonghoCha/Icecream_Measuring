@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "ae88368a-a56e-4a20-b7f9-67c53968f10d",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 403,
+  "height": 65,
   "platformSettings": {},
   "subMetas": {
     "문항": {

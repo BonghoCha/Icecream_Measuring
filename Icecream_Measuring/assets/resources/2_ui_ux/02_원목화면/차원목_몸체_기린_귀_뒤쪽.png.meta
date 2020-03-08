@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "48b490b8-6c39-4b02-9489-42b0d0262f5a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 145,
+  "height": 96,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_기린_귀_뒤쪽": {

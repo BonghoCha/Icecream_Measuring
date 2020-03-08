@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "7fca51ac-aa7d-485c-9817-5e277f2d32dc",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 181,
+  "height": 131,
   "platformSettings": {},
   "subMetas": {
     "기차원목_첫칸_기둥_전": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "33def208-2c46-4c57-87c2-9de66eb25ba0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 200,
+  "height": 90,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_주둥이_후": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "a32710cb-fa3b-4f1c-aa66-c5385eee5cc7",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 261,
+  "height": 59,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_목_전": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "9e3a2701-2de4-4132-9ff2-639842e8a904",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 218,
+  "height": 216,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_몸통_길이재기": {

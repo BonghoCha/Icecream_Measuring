@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "d521f8bb-e28f-4a13-aba1-ac6680cb1bc7",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 192,
+  "height": 82,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_주둥이_길이재기": {

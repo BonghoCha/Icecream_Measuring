@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "add20a2c-a44c-41eb-843b-67b96222fa8e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 226,
+  "height": 224,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_몸통_게이지_1": {

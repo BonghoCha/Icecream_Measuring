@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "09e5a807-500e-401c-8a78-d833a6fba18a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 175,
+  "height": 182,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_몸_전": {

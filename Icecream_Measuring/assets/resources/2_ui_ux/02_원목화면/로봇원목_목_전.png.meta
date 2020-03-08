@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "c7ec94a2-0878-4ac5-a48f-7c5e02ed5531",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 89,
+  "height": 43,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_목_전": {

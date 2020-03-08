@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "bd878ba4-955c-481a-acb2-c3359122c62b",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 184,
+  "height": 82,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_팔앞_후": {

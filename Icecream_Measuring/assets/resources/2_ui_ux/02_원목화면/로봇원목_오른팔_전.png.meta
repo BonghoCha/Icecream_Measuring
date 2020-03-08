@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "46663d1d-a9ae-4730-8323-4bfceaa964c9",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 67,
+  "height": 169,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_오른팔_전": {

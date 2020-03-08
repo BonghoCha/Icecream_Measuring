@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "85ae4bc3-328a-4932-9006-c703f42aca3e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 158,
+  "height": 96,
   "platformSettings": {},
   "subMetas": {
     "btn_초기화_기본": {

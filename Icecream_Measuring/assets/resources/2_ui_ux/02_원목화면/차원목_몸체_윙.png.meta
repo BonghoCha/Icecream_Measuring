@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "becdd6a3-c66b-4dd0-a8e3-d34fc4bfc71a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 235,
+  "height": 156,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_윙": {

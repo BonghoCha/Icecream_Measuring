@@ -1,20 +1,20 @@
 
 finger.png
-size: 128,64
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 finger
   rotate: false
-  xy: 2, 2
-  size: 50, 45
-  orig: 50, 45
+  xy: 2, 3
+  size: 206, 186
+  orig: 206, 186
   offset: 0, 0
   index: -1
-wand_head
+halo
   rotate: false
-  xy: 54, 4
-  size: 43, 43
-  orig: 43, 43
+  xy: 2, 191
+  size: 286, 286
+  orig: 286, 286
   offset: 0, 0
   index: -1

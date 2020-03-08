@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "1ffff048-5d2d-4768-b506-6577731a8b55",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 228,
+  "height": 194,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_머리_얼굴_4": {

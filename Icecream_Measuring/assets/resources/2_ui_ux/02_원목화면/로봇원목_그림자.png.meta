@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "4d99fcac-391c-416b-a0bb-c1755e7aa3a7",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 464,
+  "height": 348,
   "platformSettings": {},
   "subMetas": {
     "로봇원목_그림자": {

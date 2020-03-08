@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "7eceb0c3-4075-42fe-b4c4-cc1608a9ec8a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 488,
+  "height": 212,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_후": {

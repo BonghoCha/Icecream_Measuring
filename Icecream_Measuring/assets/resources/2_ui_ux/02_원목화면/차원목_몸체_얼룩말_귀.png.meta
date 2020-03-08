@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "4eee140b-2a72-4e5d-971b-ed4037d69ad0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 87,
+  "height": 108,
   "platformSettings": {},
   "subMetas": {
     "차원목_몸체_얼룩말_귀": {

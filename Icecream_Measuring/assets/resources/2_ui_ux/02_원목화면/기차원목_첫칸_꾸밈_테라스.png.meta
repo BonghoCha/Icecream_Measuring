@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "0d0ef4d3-d215-456b-8daa-4e2ed1c044fc",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 73,
+  "height": 111,
   "platformSettings": {},
   "subMetas": {
     "기차원목_첫칸_꾸밈_테라스": {

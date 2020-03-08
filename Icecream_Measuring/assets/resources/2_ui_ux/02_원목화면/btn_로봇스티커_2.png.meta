@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "25be2fe4-0de6-41fb-beab-a19ad16ab593",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 99,
+  "height": 76,
   "platformSettings": {},
   "subMetas": {
     "btn_로봇스티커_2": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "dc844265-0c20-4601-8f37-498cbb23ff86",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 188,
+  "height": 152,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_몸_옷_2": {

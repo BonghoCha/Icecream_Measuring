@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "56b7917a-3972-42b4-94f5-58225dd8d63a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 102,
+  "height": 89,
   "platformSettings": {},
   "subMetas": {
     "알파카원목_얼굴_표정_1": {

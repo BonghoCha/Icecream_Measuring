@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "220df93c-8c75-4ef6-bbf7-b0adc649103a",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 545,
+  "height": 188,
   "platformSettings": {},
   "subMetas": {
     "허수아비원목_어깨_팔_2": {

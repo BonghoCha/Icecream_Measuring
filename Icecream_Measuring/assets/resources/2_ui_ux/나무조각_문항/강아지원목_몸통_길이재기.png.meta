@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "acfcd5ca-8332-474c-aeaa-84c1c9d98e5f",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 263,
+  "height": 180,
   "platformSettings": {},
   "subMetas": {
     "강아지원목_몸통_길이재기": {

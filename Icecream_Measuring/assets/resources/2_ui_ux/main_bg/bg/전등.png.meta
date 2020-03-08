@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "a339e37c-9ccf-4723-b055-6469e11eaae1",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 159,
+  "height": 79,
   "platformSettings": {},
   "subMetas": {
     "전등": {

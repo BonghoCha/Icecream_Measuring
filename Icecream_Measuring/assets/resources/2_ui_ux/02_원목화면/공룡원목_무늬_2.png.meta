@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "49dc24b3-e578-4894-a26c-860e64c89f87",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 220,
+  "height": 277,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_무늬_2": {

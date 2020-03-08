@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.4",
   "uuid": "da04097e-de5d-402d-9396-bb6d1f14e66e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 419,
+  "height": 386,
   "platformSettings": {},
   "subMetas": {
     "공룡원목_그림자": {
